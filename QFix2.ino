@@ -4,8 +4,8 @@
 //define this to use USB Output
 #define ENABLE_USB_OUT
 //#define ENABLE_SER_OUT
-#define PEDALS 2
-#define VOLUME
+//#define PEDALS 2
+//#define VOLUME
 #define LED
 
 #ifdef PEDALS
